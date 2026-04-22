@@ -13,7 +13,7 @@
 ------------------------------------------------
 
  Enlace a la carpeta de Drive
-(https://docs.google.com/presentation/d/1uPkn-EPV9jIgyroCiQPISIYZTQi0CPXk6N8ndpp7UdU/edit?usp=sharing )
+(https://docs.google.com/presentation/d/10ObseRPGxxi1XYc5bWOaYhBUk1kMTQjQ/edit?slide=id.p1#slide=id.p1 )
 
 ------------------------------------------------
 
