@@ -7,9 +7,8 @@
 
  Integrantes y roles
 - Facundo Martin Ortiz - Scrum Master (Git Master)
-- Facundo Martin Ortiz - Product Owner (Documentalista)
-- Facundo Martin Ortiz- Dev Team (Investigador)
-- Facundo Martin Ortiz- Dev Team (Investigador)
+- Ricardo Alexander Lopez - Product Owner (Documentalista)
+- N/A- Dev Team (Investigador)
 
 ------------------------------------------------
 
